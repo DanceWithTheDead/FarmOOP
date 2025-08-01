@@ -8,6 +8,7 @@ class Chicken extends Animal
     {
         parent::__construct(null,'Egg',0,1);
     }
+
     public function getType(): string
     {
         return "Chicken";
