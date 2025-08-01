@@ -4,10 +4,13 @@ Launch
 
 ```
 git clone https://github.com/DanceWithTheDead/FarmOOP.git
-
+```
+```
 cd FarmOOP/
-
+```
+```
 composer install
-
+```
+```
 php {path to file}/FarmOOP/main/index.php
 ```
